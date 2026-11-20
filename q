@@ -1,16 +1,9 @@
 <html>
-    <header style="background-color:black">
-        <img src="https://learn.algoritmika.org/uploads/2020/10/boxing-1293088_640_0_1602494675.png" height="50px"/>
-        <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0" style="color:white">История</a>
-    </header>
-    <main style="background-color:lightgray">
-        <h1 style="font-size:50px;background-color:lightgray; text-align:center">Школа боевых искусств<br/>
-        <img src="https://learn.algoritmika.org/uploads/2020/10/thai-boxing-297023_1280_0_1602496230.png" height="150"/></h1>
-        <p style="font-size:20px">Приглашаем освоить любой из видов рукопашного боя, который вам по душе. <br/>У нас представлены: <b><i>традиционный рукопашный бой, тайский бокс, Джиу-Джитсу, карате и многое другое</i></b>. Занятия ведут профессиональные тренеры в группах разного уровня.</p>
-        <img src="https://learn.algoritmika.org/uploads/2020/10/karate-4575114_640_0_1602523338.png" height="230px";/><img src="https://learn.algoritmika.org/uploads/2020/10/punching-bag_0_1602525500.png" height="230px";/><img src="https://learn.algoritmika.org/uploads/2020/10/boxing-ring_0_1602525156.png" height="230px";/>
-    </main>
-    <footer style="background-color:black;color:white;">
-        <p style="font-size:15px"> Адрес: город Спортивный, ул.Здоровья, 15.</p>
-        <p>Тел.:596-457</p>
-    </footer>
+    <h1>Блог о летних каникулах</h1>
+    <p>В это лето я впервые был на море, сбылась моя мечта. <img src="https://learn.algoritmika.org/uploads/2020/09/blue-309761_640_0_1601486559.png" width="60px" height="20px"></p> 
+    <p>Ездили мы всей семьёй на десять дней в Сочи. На берегу моря я нашёл красивые раковины. <img src="https://learn.algoritmika.org/uploads/2020/09/animal-2030028_640_0_1601486560.png" width="20px" height="20px"/></p>
+    <p>В Сочи мы пошли в зоопарк и там я видел черепаху. <img src="https://learn.algoritmika.org/uploads/2020/09/turtle-303732_640_0_1601488082.png" width="40px" height="20px"/></p>
+    <p>Остальную часть каникул я провёл на даче у бабушки, собирал клубнику. <img src="https://learn.algoritmika.org/uploads/2020/09/eat-1299323_640_0_1601486560.png" width="20px" height="20px"/></p>
+    <p>На дачу ко мне приехал друг <img src="https://learn.algoritmika.org/uploads/2020/09/friends-3077835_640_0_1601486560.png" width="20px" height="20px"/> и мы ловили рыбу, играли в настольные игры.</p>
+    <p>Нужно разобрать фотографии в телефоне. <img src="https://learn.algoritmika.org/uploads/2020/09/image-1271454_640_0_1601486560.png" width="20px" height="20px"/></p>
 </html>
